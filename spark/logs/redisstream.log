@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+---------+
+|               email|birthYear|
++--------------------+---------+
+|   sam.test@test.com|     2001|
+|Santosh.Olson@tes...|     1965|
+|Jerry.Mitra@test.com|     1964|
+|Lyn.Jefferson@tes...|     1963|
+|Edward.Abram@test...|     1962|
+|Jacob.Sanchez@tes...|     1961|
+|Gail.Phillips@tes...|     1960|
+| John.Jones@test.com|     1959|
+|Neeraj.Jefferson@...|     1958|
+|Travis.Spencer@te...|     1957|
+|Lyn.Clayton@test.com|     1956|
+|Jacob.Phillips@te...|     1955|
+|   Larry.Wu@test.com|     1954|
+|Jacob.Jackson@tes...|     1953|
+|Trevor.Sanchez@te...|     1952|
+|Trevor.Huey@test.com|     1951|
+|Jerry.Davis@test.com|     1950|
+|Sean.Staples@test...|     1949|
+|Sarah.Ahmed@test.com|     1948|
+|    Sean.Wu@test.com|     1947|
++--------------------+---------+
+only showing top 20 rows
+

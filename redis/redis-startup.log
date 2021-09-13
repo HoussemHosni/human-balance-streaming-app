@@ -1,0 +1,4 @@
+21838:C 05 Sep 2021 21:27:41.093 # oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+21838:C 05 Sep 2021 21:27:41.093 # Redis version=6.0.6, bits=64, commit=00000000, modified=0, pid=21838, just started
+21838:C 05 Sep 2021 21:27:41.093 # Configuration loaded
+21838:M 05 Sep 2021 21:27:41.098 # Could not create server TCP listening socket 127.0.0.1:6379: bind: Address already in use

@@ -1,0 +1,87 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Eric.Khatib@test.com| -4.5|Eric.Khatib@test.com|     1957|
+|Eric.Khatib@test.com| -3.0|Eric.Khatib@test.com|     1957|
+|Eric.Khatib@test.com| -4.5|Eric.Khatib@test.com|     1957|
+|Eric.Khatib@test.com| -6.0|Eric.Khatib@test.com|     1957|
+|Christina.Khatib@...| -4.0|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -3.5|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -3.0|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -4.0|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -4.5|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -4.0|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -5.0|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -4.5|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -2.5|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -2.0|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -1.0|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -1.5|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -4.5|Christina.Khatib@...|     1951|
+|Christina.Khatib@...| -6.0|Christina.Khatib@...|     1951|
+|Ashley.Mitra@test...|  9.5|Ashley.Mitra@test...|     1939|
+|Ashley.Mitra@test...| 16.5|Ashley.Mitra@test...|     1939|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Edward.Huey@test.com| 30.0|Edward.Huey@test.com|     1949|
+|Senthil.Spencer@t...|-22.0|Senthil.Spencer@t...|     1946|
+|Senthil.Spencer@t...|-21.0|Senthil.Spencer@t...|     1946|
+|Santosh.Gonzalez@...| -1.0|Santosh.Gonzalez@...|     1954|
+|Christina.Jackson...| -5.5|Christina.Jackson...|     1951|
+|Larry.Staples@tes...|-19.5|Larry.Staples@tes...|     1947|
+|Larry.Staples@tes...|-12.0|Larry.Staples@tes...|     1947|
+|Jerry.Clayton@tes...| -3.5|Jerry.Clayton@tes...|     1938|
+|Jerry.Clayton@tes...| 15.5|Jerry.Clayton@tes...|     1938|
+|John.Sanchez@test...| -2.5|John.Sanchez@test...|     1957|
+|John.Sanchez@test...| -4.5|John.Sanchez@test...|     1957|
+|Neeraj.Jackson@te...| -3.5|Neeraj.Jackson@te...|     1961|
+|Ashley.Hansen@tes...| -2.5|Ashley.Hansen@tes...|     1950|
+|Neeraj.Jackson@te...|  7.5|Neeraj.Jackson@te...|     1961|
+|Trevor.Jones@test...| 38.5|Trevor.Jones@test...|     1937|
+|Trevor.Jones@test...| 17.5|Trevor.Jones@test...|     1937|
+| Jacob.Huey@test.com|  8.0| Jacob.Huey@test.com|     1963|
+| Jacob.Huey@test.com|  4.0| Jacob.Huey@test.com|     1963|
+|Spencer.Spencer@t...| -4.0|Spencer.Spencer@t...|     1955|
+|Chris.Aristotle@t...|-24.5|Chris.Aristotle@t...|     1941|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++--------------------+-----+--------------------+---------+
+|            customer|score|               email|birthYear|
++--------------------+-----+--------------------+---------+
+|Edward.Huey@test.com| 14.5|Edward.Huey@test.com|     1949|
+|Senthil.Spencer@t...|  4.5|Senthil.Spencer@t...|     1946|
+|Santosh.Gonzalez@...| -1.5|Santosh.Gonzalez@...|     1954|
+|Santosh.Gonzalez@...| -4.5|Santosh.Gonzalez@...|     1954|
+|Christina.Jackson...| -6.0|Christina.Jackson...|     1951|
+|Christina.Jackson...| -6.0|Christina.Jackson...|     1951|
+|Larry.Staples@tes...|-12.5|Larry.Staples@tes...|     1947|
+|Jerry.Clayton@tes...| -3.0|Jerry.Clayton@tes...|     1938|
+|John.Sanchez@test...| -4.0|John.Sanchez@test...|     1957|
+|Ashley.Hansen@tes...| -3.5|Ashley.Hansen@tes...|     1950|
+|Neeraj.Jackson@te...| 21.5|Neeraj.Jackson@te...|     1961|
+|Ashley.Hansen@tes...| -5.0|Ashley.Hansen@tes...|     1950|
+|Trevor.Jones@test...|-16.0|Trevor.Jones@test...|     1937|
+| Jacob.Huey@test.com| -4.0| Jacob.Huey@test.com|     1963|
+|Spencer.Spencer@t...| -2.5|Spencer.Spencer@t...|     1955|
+|Spencer.Spencer@t...| -1.5|Spencer.Spencer@t...|     1955|
+|Chris.Aristotle@t...| 20.5|Chris.Aristotle@t...|     1941|
+|Larry.Anandh@test...|  1.0|Larry.Anandh@test...|     1965|
+|Danny.Phillips@te...| -1.5|Danny.Phillips@te...|     1958|
+|Bobby.Ahmed@test.com|-23.0|Bobby.Ahmed@test.com|     1948|
++--------------------+-----+--------------------+---------+
+only showing top 20 rows
+

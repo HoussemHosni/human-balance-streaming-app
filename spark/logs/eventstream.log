@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Jason.Khatib@test...|-10.5|
+|   Chris.Wu@test.com|  6.0|
+|Jason.Abram@test.com| 27.0|
+|Craig.Olson@test.com|-19.0|
+|Jacob.Jones@test.com| 23.0|
+|Frank.Fibonnaci@t...| -3.5|
+|Trevor.Clayton@te...| -4.0|
+| Sean.Doshi@test.com| -4.5|
+|Jerry.Khatib@test...| -2.5|
+|Frank.Harris@test...| -3.0|
+| Jane.Abram@test.com| -5.0|
+| Gail.Mitra@test.com| -2.0|
+|Ben.Fibonnaci@tes...| -5.0|
+|Neeraj.Staples@te...| -6.0|
+|  Dan.Doshi@test.com| -2.0|
+|Suresh.Mitra@test...| -1.5|
+|Angie.Olson@test.com|-36.5|
+|Senthil.Jefferson...|-21.0|
+|Jacob.Mitra@test.com|  2.0|
+|  Dan.Ahmed@test.com| 24.5|
++--------------------+-----+
+only showing top 20 rows
+
